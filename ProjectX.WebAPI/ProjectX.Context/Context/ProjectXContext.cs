@@ -24,7 +24,7 @@ namespace ProjectX.Context.Context
             #region Mapping to Tables
             modelBuilder.Entity<Employee>().ToTable("Employee", "emp");
             modelBuilder.Entity<Person>().ToTable("Person", "emp");
-            modelBuilder.Entity<Account>().ToTable("Account", "core");
+            modelBuilder.Entity<Profile>().ToTable("Account", "core");
             #endregion
 
             #region Employee mappings for fields and relationships
@@ -36,7 +36,7 @@ namespace ProjectX.Context.Context
 
                 //relationships for the employee Object
                 Employee.HasOne(x => x.Person).WithOne(x => x.Employee).HasForeignKey<Person>(x => x.PersonId);
-                Employee.HasOne(x => x.Account).WithOne(x => x.Employee).HasForeignKey<Account>(x => x.EmployeeId);
+                Employee.HasOne(x => x.Profile).WithOne(x => x.Employee).HasForeignKey<Profile>(x => x.EmployeeId);
             });
             #endregion
 
@@ -51,7 +51,7 @@ namespace ProjectX.Context.Context
             #endregion
 
             #region Account mappings
-            modelBuilder.Entity<Account>(Account => 
+            modelBuilder.Entity<Profile>(Account => 
             {
                 Account.HasKey(x => x.EmployeeId);
                 Account.Property(x => x.EmployeeId).HasColumnName("EmployeeId");

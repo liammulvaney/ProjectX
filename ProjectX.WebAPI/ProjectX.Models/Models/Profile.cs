@@ -2,7 +2,7 @@
 
 namespace ProjectX.Models.Models
 {
-    public class Account
+    public class Profile
     {
         public Guid EmployeeId { get; set; }
         public string Username { get; set; }
