@@ -1279,6 +1279,19 @@
         "runtime": {
           "bin/placeholder/ProjectX.Models.dll": {}
         }
+      },
+      "ProjectX.UnitOfWork/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "ProjectX.Context": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ProjectX.UnitOfWork.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectX.UnitOfWork.dll": {}
+        }
       }
     }
   },
@@ -4774,12 +4787,17 @@
       "type": "project",
       "path": "../ProjectX.Models/ProjectX.Models.csproj",
       "msbuildProject": "../ProjectX.Models/ProjectX.Models.csproj"
+    },
+    "ProjectX.UnitOfWork/1.0.0": {
+      "type": "project",
+      "path": "../ProjectX.UnitOfWork/ProjectX.UnitOfWork.csproj",
+      "msbuildProject": "../ProjectX.UnitOfWork/ProjectX.UnitOfWork.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.NETCore.App >= 2.2.0",
-      "ProjectX.Context >= 1.0.0"
+      "ProjectX.UnitOfWork >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4789,11 +4807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\ProjectX.UnitOfWork.csproj",
-      "projectName": "ProjectX.UnitOfWork",
-      "projectPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\ProjectX.UnitOfWork.csproj",
+      "projectUniqueName": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.BusinessLogic\\ProjectX.BusinessLogic.csproj",
+      "projectName": "ProjectX.BusinessLogic",
+      "projectPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.BusinessLogic\\ProjectX.BusinessLogic.csproj",
       "packagesPath": "C:\\Users\\liamm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\obj\\",
+      "outputPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4812,8 +4830,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.Context\\ProjectX.Context.csproj": {
-              "projectPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.Context\\ProjectX.Context.csproj"
+            "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\ProjectX.UnitOfWork.csproj": {
+              "projectPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\ProjectX.UnitOfWork.csproj"
             }
           }
         }

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.Models\\ProjectX.Models.csproj",
+      "projectUniqueName": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.Models\\ProjectX.Models.csproj",
       "projectName": "ProjectX.Models",
-      "projectPath": "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.Models\\ProjectX.Models.csproj",
+      "projectPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.Models\\ProjectX.Models.csproj",
       "packagesPath": "C:\\Users\\liamm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.Models\\obj\\",
+      "outputPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

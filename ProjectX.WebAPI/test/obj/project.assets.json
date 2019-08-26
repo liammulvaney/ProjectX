@@ -4807,11 +4807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\test\\test.csproj",
+      "projectUniqueName": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\test\\test.csproj",
+      "projectPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\test\\test.csproj",
       "packagesPath": "C:\\Users\\liamm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\test\\obj\\",
+      "outputPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4830,8 +4830,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\ProjectX.UnitOfWork.csproj": {
-              "projectPath": "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\ProjectX.UnitOfWork.csproj"
+            "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\ProjectX.UnitOfWork.csproj": {
+              "projectPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\ProjectX.UnitOfWork.csproj"
             }
           }
         }

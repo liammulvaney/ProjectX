@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\ProjectX.UnitOfWork.csproj": {}
+    "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\ProjectX.UnitOfWork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.Context\\ProjectX.Context.csproj": {
+    "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.Context\\ProjectX.Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.Context\\ProjectX.Context.csproj",
+        "projectUniqueName": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.Context\\ProjectX.Context.csproj",
         "projectName": "ProjectX.Context",
-        "projectPath": "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.Context\\ProjectX.Context.csproj",
+        "projectPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.Context\\ProjectX.Context.csproj",
         "packagesPath": "C:\\Users\\liamm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.Context\\obj\\",
+        "outputPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.Context\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.Models\\ProjectX.Models.csproj": {
-                "projectPath": "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.Models\\ProjectX.Models.csproj"
+              "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.Models\\ProjectX.Models.csproj": {
+                "projectPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.Models\\ProjectX.Models.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.Models\\ProjectX.Models.csproj": {
+    "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.Models\\ProjectX.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.Models\\ProjectX.Models.csproj",
+        "projectUniqueName": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.Models\\ProjectX.Models.csproj",
         "projectName": "ProjectX.Models",
-        "projectPath": "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.Models\\ProjectX.Models.csproj",
+        "projectPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.Models\\ProjectX.Models.csproj",
         "packagesPath": "C:\\Users\\liamm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.Models\\obj\\",
+        "outputPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -126,14 +126,14 @@
         }
       }
     },
-    "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\ProjectX.UnitOfWork.csproj": {
+    "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\ProjectX.UnitOfWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\ProjectX.UnitOfWork.csproj",
+        "projectUniqueName": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\ProjectX.UnitOfWork.csproj",
         "projectName": "ProjectX.UnitOfWork",
-        "projectPath": "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\ProjectX.UnitOfWork.csproj",
+        "projectPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\ProjectX.UnitOfWork.csproj",
         "packagesPath": "C:\\Users\\liamm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\obj\\",
+        "outputPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -152,8 +152,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.Context\\ProjectX.Context.csproj": {
-                "projectPath": "C:\\Users\\liamm\\OneDrive\\Pictures\\Desktop\\Documents\\Development\\ProjectX\\ProjectX.WebAPI\\ProjectX.Context\\ProjectX.Context.csproj"
+              "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.Context\\ProjectX.Context.csproj": {
+                "projectPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.Context\\ProjectX.Context.csproj"
               }
             }
           }
