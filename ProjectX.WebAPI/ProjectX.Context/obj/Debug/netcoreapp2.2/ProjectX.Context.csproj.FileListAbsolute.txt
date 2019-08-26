@@ -1,0 +1,14 @@
+C:\Users\liamm\OneDrive\Pictures\Desktop\Documents\Development\ProjectX\ProjectX.WebAPI\ProjectX.Context\bin\Debug\netcoreapp2.2\ProjectX.Context.deps.json
+C:\Users\liamm\OneDrive\Pictures\Desktop\Documents\Development\ProjectX\ProjectX.WebAPI\ProjectX.Context\bin\Debug\netcoreapp2.2\ProjectX.Context.dll
+C:\Users\liamm\OneDrive\Pictures\Desktop\Documents\Development\ProjectX\ProjectX.WebAPI\ProjectX.Context\obj\Debug\netcoreapp2.2\ProjectX.Context.csproj.CoreCompileInputs.cache
+C:\Users\liamm\OneDrive\Pictures\Desktop\Documents\Development\ProjectX\ProjectX.WebAPI\ProjectX.Context\obj\Debug\netcoreapp2.2\ProjectX.Context.AssemblyInfoInputs.cache
+C:\Users\liamm\OneDrive\Pictures\Desktop\Documents\Development\ProjectX\ProjectX.WebAPI\ProjectX.Context\obj\Debug\netcoreapp2.2\ProjectX.Context.AssemblyInfo.cs
+C:\Users\liamm\OneDrive\Pictures\Desktop\Documents\Development\ProjectX\ProjectX.WebAPI\ProjectX.Context\bin\Debug\netcoreapp2.2\ProjectX.Context.runtimeconfig.json
+C:\Users\liamm\OneDrive\Pictures\Desktop\Documents\Development\ProjectX\ProjectX.WebAPI\ProjectX.Context\bin\Debug\netcoreapp2.2\ProjectX.Context.runtimeconfig.dev.json
+C:\Users\liamm\OneDrive\Pictures\Desktop\Documents\Development\ProjectX\ProjectX.WebAPI\ProjectX.Context\bin\Debug\netcoreapp2.2\ProjectX.Context.pdb
+C:\Users\liamm\OneDrive\Pictures\Desktop\Documents\Development\ProjectX\ProjectX.WebAPI\ProjectX.Context\obj\Debug\netcoreapp2.2\ProjectX.Context.dll
+C:\Users\liamm\OneDrive\Pictures\Desktop\Documents\Development\ProjectX\ProjectX.WebAPI\ProjectX.Context\obj\Debug\netcoreapp2.2\ProjectX.Context.pdb
+C:\Users\liamm\OneDrive\Pictures\Desktop\Documents\Development\ProjectX\ProjectX.WebAPI\ProjectX.Context\bin\Debug\netcoreapp2.2\ProjectX.Models.dll
+C:\Users\liamm\OneDrive\Pictures\Desktop\Documents\Development\ProjectX\ProjectX.WebAPI\ProjectX.Context\bin\Debug\netcoreapp2.2\ProjectX.Models.pdb
+C:\Users\liamm\OneDrive\Pictures\Desktop\Documents\Development\ProjectX\ProjectX.WebAPI\ProjectX.Context\obj\Debug\netcoreapp2.2\ProjectX.Context.csprojAssemblyReference.cache
+C:\Users\liamm\OneDrive\Pictures\Desktop\Documents\Development\ProjectX\ProjectX.WebAPI\ProjectX.Context\obj\Debug\netcoreapp2.2\ProjectX.Context.csproj.CopyComplete
