@@ -12,3 +12,17 @@ C:\Users\liamm\OneDrive\Pictures\Desktop\Documents\Development\ProjectX\ProjectX
 C:\Users\liamm\OneDrive\Pictures\Desktop\Documents\Development\ProjectX\ProjectX.WebAPI\ProjectX.UnitOfWork\obj\Debug\netcoreapp2.2\ProjectX.UnitOfWork.csproj.CopyComplete
 C:\Users\liamm\OneDrive\Pictures\Desktop\Documents\Development\ProjectX\ProjectX.WebAPI\ProjectX.UnitOfWork\obj\Debug\netcoreapp2.2\ProjectX.UnitOfWork.dll
 C:\Users\liamm\OneDrive\Pictures\Desktop\Documents\Development\ProjectX\ProjectX.WebAPI\ProjectX.UnitOfWork\obj\Debug\netcoreapp2.2\ProjectX.UnitOfWork.pdb
+C:\Users\liamm\OneDrive\Documents\Development\ProjectX.WebAPI\ProjectX.WebAPI\ProjectX.UnitOfWork\bin\Debug\netcoreapp2.2\ProjectX.UnitOfWork.deps.json
+C:\Users\liamm\OneDrive\Documents\Development\ProjectX.WebAPI\ProjectX.WebAPI\ProjectX.UnitOfWork\bin\Debug\netcoreapp2.2\ProjectX.UnitOfWork.dll
+C:\Users\liamm\OneDrive\Documents\Development\ProjectX.WebAPI\ProjectX.WebAPI\ProjectX.UnitOfWork\bin\Debug\netcoreapp2.2\ProjectX.UnitOfWork.pdb
+C:\Users\liamm\OneDrive\Documents\Development\ProjectX.WebAPI\ProjectX.WebAPI\ProjectX.UnitOfWork\bin\Debug\netcoreapp2.2\ProjectX.Context.dll
+C:\Users\liamm\OneDrive\Documents\Development\ProjectX.WebAPI\ProjectX.WebAPI\ProjectX.UnitOfWork\bin\Debug\netcoreapp2.2\ProjectX.Models.dll
+C:\Users\liamm\OneDrive\Documents\Development\ProjectX.WebAPI\ProjectX.WebAPI\ProjectX.UnitOfWork\bin\Debug\netcoreapp2.2\ProjectX.Context.pdb
+C:\Users\liamm\OneDrive\Documents\Development\ProjectX.WebAPI\ProjectX.WebAPI\ProjectX.UnitOfWork\bin\Debug\netcoreapp2.2\ProjectX.Models.pdb
+C:\Users\liamm\OneDrive\Documents\Development\ProjectX.WebAPI\ProjectX.WebAPI\ProjectX.UnitOfWork\obj\Debug\netcoreapp2.2\ProjectX.UnitOfWork.csprojAssemblyReference.cache
+C:\Users\liamm\OneDrive\Documents\Development\ProjectX.WebAPI\ProjectX.WebAPI\ProjectX.UnitOfWork\obj\Debug\netcoreapp2.2\ProjectX.UnitOfWork.csproj.CoreCompileInputs.cache
+C:\Users\liamm\OneDrive\Documents\Development\ProjectX.WebAPI\ProjectX.WebAPI\ProjectX.UnitOfWork\obj\Debug\netcoreapp2.2\ProjectX.UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\liamm\OneDrive\Documents\Development\ProjectX.WebAPI\ProjectX.WebAPI\ProjectX.UnitOfWork\obj\Debug\netcoreapp2.2\ProjectX.UnitOfWork.AssemblyInfo.cs
+C:\Users\liamm\OneDrive\Documents\Development\ProjectX.WebAPI\ProjectX.WebAPI\ProjectX.UnitOfWork\obj\Debug\netcoreapp2.2\ProjectX.UnitOfWork.csproj.CopyComplete
+C:\Users\liamm\OneDrive\Documents\Development\ProjectX.WebAPI\ProjectX.WebAPI\ProjectX.UnitOfWork\obj\Debug\netcoreapp2.2\ProjectX.UnitOfWork.dll
+C:\Users\liamm\OneDrive\Documents\Development\ProjectX.WebAPI\ProjectX.WebAPI\ProjectX.UnitOfWork\obj\Debug\netcoreapp2.2\ProjectX.UnitOfWork.pdb

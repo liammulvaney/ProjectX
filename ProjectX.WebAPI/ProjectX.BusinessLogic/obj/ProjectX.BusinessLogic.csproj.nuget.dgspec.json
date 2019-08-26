@@ -1,9 +1,65 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\test\\test.csproj": {}
+    "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.BusinessLogic\\ProjectX.BusinessLogic.csproj": {}
   },
   "projects": {
+    "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.BusinessLogic\\ProjectX.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.BusinessLogic\\ProjectX.BusinessLogic.csproj",
+        "projectName": "ProjectX.BusinessLogic",
+        "projectPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.BusinessLogic\\ProjectX.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\liamm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\liamm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\ProjectX.UnitOfWork.csproj": {
+                "projectPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\ProjectX.UnitOfWork.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
     "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.Context\\ProjectX.Context.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -154,62 +210,6 @@
             "projectReferences": {
               "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.Context\\ProjectX.Context.csproj": {
                 "projectPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.Context\\ProjectX.Context.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp2.2": {
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            }
-          },
-          "imports": [
-            "net461"
-          ],
-          "assetTargetFallback": true,
-          "warn": true
-        }
-      }
-    },
-    "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\test\\test.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\test\\test.csproj",
-        "projectName": "test",
-        "projectPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\test\\test.csproj",
-        "packagesPath": "C:\\Users\\liamm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\test\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\liamm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp2.2"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp2.2": {
-            "projectReferences": {
-              "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\ProjectX.UnitOfWork.csproj": {
-                "projectPath": "C:\\Users\\liamm\\OneDrive\\Documents\\Development\\ProjectX.WebAPI\\ProjectX.WebAPI\\ProjectX.UnitOfWork\\ProjectX.UnitOfWork.csproj"
               }
             }
           }
