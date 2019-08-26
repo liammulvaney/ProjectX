@@ -2,6 +2,7 @@
 using ProjectX.UnitOfWork.Interfaces;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace ProjectX.UnitOfWork.Repository
 {
@@ -26,6 +27,11 @@ namespace ProjectX.UnitOfWork.Repository
         public IEnumerable<IEntity> List(Guid Segment)
         {
             return _DbContext.SetEntity<IEntity>();
+        }
+
+        public IEnumerable<IEntity> List(Func<IEntity, bool> Expression)
+        {
+            return _DbContext.SetEntity<IEntity>().Where(Expression);
         }
 
         public IEntity Read(Guid Id)

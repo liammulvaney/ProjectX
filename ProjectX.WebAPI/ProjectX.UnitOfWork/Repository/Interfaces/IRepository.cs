@@ -7,6 +7,7 @@ namespace ProjectX.UnitOfWork.Interfaces
     {
         IEntity Read(Guid Id);
         IEnumerable<IEntity> List(Guid Segment);
+        IEnumerable<IEntity> List(Func<IEntity, bool> Expression);
         void Delete(IEntity Deleted);
         void Create(IEntity Create);
         void SaveChanges();
