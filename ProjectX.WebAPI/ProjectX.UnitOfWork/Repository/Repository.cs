@@ -6,7 +6,7 @@ using System.Linq;
 
 namespace ProjectX.UnitOfWork.Repository
 {
-    public class Repository<IEntity> : IRepository<IEntity> where IEntity : class
+    public class Repository : IRepository
     {
         private IContext _DbContext { get; set; }
 
@@ -14,27 +14,27 @@ namespace ProjectX.UnitOfWork.Repository
         {
             _DbContext = DbContext; // initialize the context
         }
-        public void Create(IEntity Create)
+        public void Create<IEntity>(IEntity Create) where IEntity : class
         {
             _DbContext.SetEntity<IEntity>().Add(Create);
         }
 
-        public void Delete(IEntity Deleted)
+        public void Delete<IEntity>(IEntity Deleted) where IEntity : class
         {
             _DbContext.SetEntity<IEntity>().Remove(Deleted);
         }
 
-        public IEnumerable<IEntity> List(Guid Segment)
+        public IEnumerable<IEntity> List<IEntity>(Guid Segment) where IEntity: class
         {
             return _DbContext.SetEntity<IEntity>();
         }
 
-        public IEnumerable<IEntity> List(Func<IEntity, bool> Expression)
+        public IEnumerable<IEntity> List<IEntity>(Func<IEntity, bool> Expression) where IEntity : class
         {
             return _DbContext.SetEntity<IEntity>().Where(Expression);
         }
 
-        public IEntity Read(Guid Id)
+        public IEntity Read<IEntity>(Guid Id) where IEntity : class
         {
             return _DbContext.SetEntity<IEntity>().Find(Id);
         }
