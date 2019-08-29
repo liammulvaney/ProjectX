@@ -3,11 +3,11 @@ using ProjectX.UnitOfWork.UOW.Interface;
 
 namespace ProjectX.UnitOfWork.UOW.Implementation
 {
-    public class UOW<IEntity> : IUOW<IEntity> where IEntity : class
+    public class UOW : IUOW
     {
-        public IRepository<IEntity> Repository { get; set; }
+        public IRepository Repository { get; set; }
 
-        public UOW(IRepository<IEntity> repository)
+        public UOW(IRepository repository)
         {
             Repository = repository; 
         }

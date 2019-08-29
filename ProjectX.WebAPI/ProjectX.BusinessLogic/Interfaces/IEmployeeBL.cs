@@ -2,17 +2,19 @@
 using ProjectX.UnitOfWork.UOW.Interface;
 using System;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace ProjectX.BusinessLogic.Interfaces
 {
     public interface IEmployeeBL
     {
-        IUOW<Employee> UnitOfWork { get; set; }
+        IUOW UnitOfWork { get; set; }
         IEnumerable<Employee> GetAllEmployeesAsync(Guid PartitionId);
         IEnumerable<Employee> GetAllEmployeesAsync(Func<Employee, bool> condition);
         void CreateEmployee(Employee EmployeeToCreate);
-        void UpdateEmployeeAsync(Employee EmployeeToUpdate);
-        void DeleteEmployeeAsync(Employee EmployeeToDelete);
+        int UpdateEmployeeAsync(Employee EmployeeModifications);
+        int DeleteEmployeeAsync(Guid EmployeeId);
+        Employee GetEmployeeDetails(Guid EmployeeId);
 
     }
 }

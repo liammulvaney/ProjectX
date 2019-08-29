@@ -14,3 +14,4 @@ C:\Users\liamm\OneDrive\Documents\Development\ProjectX.WebAPI\ProjectX.WebAPI\Pr
 C:\Users\liamm\OneDrive\Documents\Development\ProjectX.WebAPI\ProjectX.WebAPI\ProjectX.Models\obj\Debug\netcoreapp2.2\ProjectX.Models.AssemblyInfo.cs
 C:\Users\liamm\OneDrive\Documents\Development\ProjectX.WebAPI\ProjectX.WebAPI\ProjectX.Models\obj\Debug\netcoreapp2.2\ProjectX.Models.dll
 C:\Users\liamm\OneDrive\Documents\Development\ProjectX.WebAPI\ProjectX.WebAPI\ProjectX.Models\obj\Debug\netcoreapp2.2\ProjectX.Models.pdb
+C:\Users\liamm\OneDrive\Documents\Development\ProjectX.WebAPI\ProjectX.WebAPI\ProjectX.Models\obj\Debug\netcoreapp2.2\ProjectX.Models.csprojAssemblyReference.cache

@@ -6,15 +6,13 @@ namespace ProjectX.Context.Context
 {
     public class ProjectXContext: DbContext, IContext
     {
-
-        public ProjectXContext()
-        {
-        }
-
+        public ProjectXContext(DbContextOptions<ProjectXContext> options)
+        : base(options)
+        { }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            if (!optionsBuilder.IsConfigured)
-                optionsBuilder.UseLazyLoadingProxies().UseSqlServer(@"Server=DESKTOP-CLDPRBE\SQLEXPRESS;DataBase=HR;Trusted_Connection=True");
+            //if (!optionsBuilder.IsConfigured)
+            //    optionsBuilder.UseLazyLoadingProxies();//.UseSqlServer(@"Server=DESKTOP-CLDPRBE\SQLEXPRESS;DataBase=HR;Trusted_Connection=True");
 
             // the use of lazy loading proxies and the virtual keyword will call the collection information outside of the master object
         }

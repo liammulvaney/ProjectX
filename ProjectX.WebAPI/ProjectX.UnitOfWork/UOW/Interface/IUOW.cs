@@ -3,9 +3,9 @@ using System;
 
 namespace ProjectX.UnitOfWork.UOW.Interface
 {
-    public interface IUOW<IEntity> : IDisposable
+    public interface IUOW : IDisposable
     {
-       IRepository<IEntity> Repository { get; set; }
+       IRepository Repository { get; set; }
        void SaveChanges(); 
     }
 }
