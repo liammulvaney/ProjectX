@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -11,6 +12,7 @@ namespace ProjectX.Models.Models
         //public long EmployeeId { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
+        [JsonIgnore]
         public virtual Employee Employee { get; set; }
     }
 }
